@@ -11,6 +11,7 @@ Download
 -------------
 * [Aastra](https://github.com/k3com/mac_dialer/blob/master/Aastra.scpt?raw=true)
 * [Auerswald](https://github.com/k3com/mac_dialer/blob/master/Auerswald.scpt?raw=true)
+* [Auerswald ab 6000er](https://github.com/k3com/mac_dialer/blob/master/Auerswald_6000.scpt?raw=true)
 * [Snom](https://github.com/k3com/mac_dialer/blob/master/Snom.scpt?raw=true)
 
 
