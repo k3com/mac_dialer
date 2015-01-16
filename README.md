@@ -3,10 +3,10 @@ Adressbuch Plugins für OS X / Address Book plugins for OS X
 
 Mit diesen Plugins kann man direkt aus dem Adressbuch mit IP Telefonen von Snom und Aastra sowie Systemtelefonen an Auerswald Telefonanlagen wählen.
 Das gewünschte Plugin muss in Library/Address Book Plug-Ins im Benutzerordner kopiert werden. 
-Ab Mavericks müssen die Dateien in Library/Scripts/Applications/Kontakte liegen.
+Ab Mavericks müssen die Dateien in Library/Application Scripts/com.apple.AddressBook liegen.
 
 These plugins allow you to dial numbers directly from your address book. 
-To use them you must copy them to Library/Scripts/Applications/Contacts (before Mavericks: Library/Address Book Plug-Ins) in your user directory.
+To use them you must copy them to Library/Application Scripts/com.apple.AddressBook (before Mavericks: Library/Address Book Plug-Ins) in your user directory.
 
 Download
 -------------
