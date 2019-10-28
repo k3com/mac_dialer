@@ -1,4 +1,4 @@
-Adressbuch Plugins für OS X / Address Book plugins for OS X
+Adressbuch Plugins für OS X bis 10.13 (High Sierra) / Address Book plugins for OS X < 10.13 (High Sierra)
 ===========================
 
 Mit diesen Plugins kann man direkt aus dem Adressbuch mit IP Telefonen von Snom und Aastra sowie Systemtelefonen an Auerswald Telefonanlagen wählen.
